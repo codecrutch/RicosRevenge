@@ -27,7 +27,7 @@ Users should be able to:
 This app will consist of a single screen with game view, instructions on how to play, mute sound button, and networking links such as my Portfolio, Github and LinkedIn.
 
 
-![wireframe](https://github.com/codecrutch/ricosrevenge/docs/wireframe/game.png)
+![wireframe](https://github.com/codecrutch/RicosRevenge/blob/master/docs/wireframe/game.png)
 
 ### Architecture and Technologies
 
