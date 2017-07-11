@@ -36,9 +36,8 @@ This project will be implemented with the following technologies:
 - `JavaScript` for game logic
 - `Webpack` to bundle js files
 - `HTML Canvas` for displaying graphics
-- `Easel.js` for sprite rendering
 
-The hardest part will be figuring out how to render properly with Easel.js and how to get things to occur at the right time.  There will be a lot of time spent looking into ways to get the animations correct and keeping track of the timeline during the level.
+The hardest part will be figuring out how to animate sprites and how to get things to occur at the right time.  There will be a lot of time spent looking into ways to get the animations correct and keeping track of the timeline during the level.
 
 #
 ### Implementation Timeline
