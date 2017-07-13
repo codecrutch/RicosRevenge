@@ -116,25 +116,6 @@ navbar ul li {
 
 #mute:hover {}
 
-#instructions {
-    background: url("../assets/instructions.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    border: 2px solid snow;
-    border-radius: 1em;
-    padding: 10px 15px;
-    text-align: center;
-    width: 666px;
-    min-width: 680px;
-    height: 588px;
-    min-height: 590px;
-    position: absolute;
-    left: 220px;
-    font-size: 13px;
-    z-index: 3;
-    box-shadow: 0px 5px 25px 5px #124;
-}
-
 #instructions:hover {
   border: 2px solid snow;
 }
