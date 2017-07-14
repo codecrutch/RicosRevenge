@@ -16,8 +16,8 @@ Shoot at the migrating bats to increase your score!
 
 Your goal is to run through the level shooting bats to increase your score. If you can make it to the end, you may encounter a boss.
 
-![Shoot bats](https://github.com/codecrutch/RicosRevenge/blob/master/assets/shootbats.png)
+![Shoot bats](https://github.com/codecrutch/RicosRevenge/blob/master/assets/shoot.gif)
 
 You can jump from plaform to platform.
 
-![jump](https://github.com/codecrutch/RicosRevenge/blob/master/assets/jump.png)
+![jump](https://github.com/codecrutch/RicosRevenge/blob/master/assets/jump.gif)
