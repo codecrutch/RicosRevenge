@@ -20,4 +20,4 @@ Your goal is to run through the level shooting bats to increase your score. If y
 
 You can jump from plaform to platform.
 
-![jump](https://github.com/codecrutch/RicosRevenge/blob/master/assets/jump.gif)
+![jump](https://github.com/codecrutch/RicosRevenge/blob/master/assets/jumping.gif)
