@@ -18,6 +18,6 @@ Your goal is to run through the level shooting bats to increase your score. If y
 
 ![Shoot bats](https://github.com/codecrutch/RicosRevenge/blob/master/assets/shoot.gif)
 
-You can jump from plaform to platform.
+Progress through the level by jumping and running on platforms.
 
 ![jump](https://github.com/codecrutch/RicosRevenge/blob/master/assets/jumping.gif)
